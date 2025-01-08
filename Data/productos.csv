@@ -1,0 +1,31 @@
+id_producto,nombre_producto,categoria,precio,cantidad_stock
+1,Laptop Pro,Electronica,1200.50,50
+2,Smartphone X,Electronica,800.00,150
+3,Televisor HD,Electronica,550.00,30
+4,Zapatillas Runner,Deportes,75.00,200
+5,Bicicleta Montana,Deportes,450.00,20
+6,Mouse Gamer,Electronica,35.00,300
+7,Teclado Mecanico,Electronica,85.00,120
+8,Camara Reflex,Electronica,900.00,25
+9,Auriculares Bluetooth,Electronica,120.00,250
+10,Reloj Deportivo,Deportes,50.00,180
+11,Silla de Oficina,Oficina,150.00,40
+12,Escritorio Compacto,Oficina,200.00,30
+13,Cuaderno Premium,Oficina,5.00,500
+14,Boligrafo Pack,Oficina,10.00,400
+15,Monitor LED,Electronica,250.00,60
+16,Tablet 10,Electronica,400.00,80
+17,Parlantes Portatiles,Electronica,95.00,150
+18,Mochila Urbana,Accesorios,35.00,300
+19,Lentes de Sol,Accesorios,20.00,350
+20,Cartera de Cuero,Accesorios,120.00,50
+21,Camiseta Basica,Ropa,15.00,500
+22,Pantalon Casual,Ropa,30.00,400
+23,Chaqueta de Invierno,Ropa,100.00,80
+24,Zapatos Elegantes,Ropa,75.00,120
+25,Sombrero de Paja,Accesorios,15.00,200
+26,Cargador Rapido,Electronica,25.00,500
+27,Control Remoto Universal,Electronica,40.00,300
+28,Mousepad XL,Electronica,20.00,250
+29,Impresora Multifuncion,Oficina,300.00,25
+30,Camara de Seguridad,Electronica,150.00,50

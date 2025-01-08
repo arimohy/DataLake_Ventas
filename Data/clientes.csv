@@ -1,0 +1,31 @@
+id_cliente,nombre,correo,ciudad,telefono
+1,Carlos Perez,carlos.perez@gmail.com,Lima,987654321
+2,Ana Ruiz,ana.ruiz@hotmail.com,Huancayo,987654322
+3,Juan Gomez,juan.gomez@yahoo.com,Trujillo,987654323
+4,Lucia Sanchez,lucia.sanchez@gmail.com,Chiclayo,987654324
+5,Pedro Torres,pedro.torres@hotmail.com,Arequipa,987654325
+6,Sofia Jimenez,sofia.jimenez@gmail.com,Piura,987654326
+7,Martin Diaz,martin.diaz@yahoo.com,Ica,987654327
+8,Carla Rojas,carla.rojas@gmail.com,Cusco,987654328
+9,Fernando Silva,fernando.silva@hotmail.com,Lima,987654329
+10,Laura Chavez,laura.chavez@gmail.com,Huanuco,987654330
+11,Diego Vargas,diego.vargas@gmail.com,Puno,987654331
+12,Daniela Vega,daniela.vega@hotmail.com,Tacna,987654332
+13,Santiago Reyes,santiago.reyes@gmail.com,Moyobamba,987654333
+14,Maria Lopez,maria.lopez@gmail.com,Ayacucho,987654334
+15,Luis Castillo,luis.castillo@hotmail.com,Puerto Maldonado,987654335
+16,Andrea Paredes,andrea.paredes@gmail.com,Huaraz,987654336
+17,Rafael Montalvo,rafael.montalvo@gmail.com,Cajamarca,987654337
+18,Clara Mendoza,clara.mendoza@hotmail.com,Juliaca,987654338
+19,Roberto Fernandez,roberto.fernandez@gmail.com,Loreto,987654339
+20,Paola Gutierrez,paola.gutierrez@gmail.com,Iquitos,987654340
+21,Lucas Navarro,lucas.navarro@hotmail.com,Lima,987654341
+22,Diana Herrera,diana.herrera@gmail.com,Huancayo,987654342
+23,Felipe Campos,felipe.campos@gmail.com,Trujillo,987654343
+24,Valeria Salazar,valeria.salazar@hotmail.com,Chiclayo,987654344
+25,Jorge Aguilar,jorge.aguilar@gmail.com,Arequipa,987654345
+26,Monica Quintana,monica.quintana@hotmail.com,Piura,987654346
+27,Cristina Pena,cristina.pena@gmail.com,Ica,987654347
+28,Emilio Cortes,emilio.cortes@yahoo.com,Cusco,987654348
+29,Elena Castro,elena.castro@gmail.com,Lima,987654349
+30,Oscar Ramos,oscar.ramos@hotmail.com,Huancayo,987654350
